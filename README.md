@@ -21,6 +21,6 @@ jupyter notebook espia_cuantico_pyday.ipynb
 
 Todo corre en el simulador de tu compu, sin internet.
 
-¿Sin instalar nada? Abrilo en Google Colab: [abrir el notebook en Colab](https://colab.research.google.com/github/ValentinaPertile/bb84_pyday/blob/main/espia_cuantico_pyday.ipynb). La primera celda instala lo necesario si falta.
+¿Sin instalar nada? Abrilo en Google Colab: [abrir el notebook en Colab](https://colab.research.google.com/github/ValentinaPertile/bb84_pyday/blob/main/espia_cuantico_colab.ipynb). Es la misma versión, sin resultados guardados: ejecutá todo (Entorno de ejecución → Ejecutar todas) y la primera celda instala lo necesario.
 
 Probado con Qiskit 2.6.
