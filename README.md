@@ -10,7 +10,6 @@ El ejemplo es BB84, un protocolo donde espiar deja huellas, pero lo importante s
 2. Dos bases con Qiskit.
 3. BB84 sin espía: 0 % de errores.
 4. BB84 con Eve: alrededor de 25 % de errores.
-5. Bonus: BB84 sin espía pero con el ruido de una computadora real (1–2 % de errores).
 
 ## Cómo correrlo
 
